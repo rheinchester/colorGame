@@ -1,26 +1,25 @@
 # colorGame
+A simple javascript game where one wins by guessing the right color. 
 
-A web application where individuals can display their work, for appreciation, validation and easy exposure. Photos, videos, research papers, you name it!!!.
 
-- Easy registration
-- Quick upload
-- Clean interface
-
-Development is still in progress, although almost done.......
+# Installation
+- Clone the repository using `git clonehttps://github.com/rheinchester/colorGame`
+- Run on any browser (Although a different behaviour might be expected in Mozilla) 
 
 # Tech involved
 - Javascript 
 - HTML & CSS
 - Bootstrap
 
-
 ## Author
 Name: Jacob okoro 
 Contact: jaycobokoro@gmail.com
 
  ## Inspired by
- Colt Steele
+ Colt Steele's web course
  
+# Notes
+The aim of this project was to consolidate my javascript skills. Feel free to enjoy the app
 
 ## License
 The this project is  licensed under the [MIT license](https://opensource.org/licenses/MIT).
