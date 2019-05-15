@@ -13,6 +13,7 @@ A simple javascript game where one wins by guessing the right color.
 
 ## Author
 Name: Jacob okoro 
+
 Contact: jaycobokoro@gmail.com
 
  ## Inspired by
